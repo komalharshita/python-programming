@@ -1,0 +1,17 @@
+# sample diary entry
+
+print('+---------------------------------------------------------------------+')
+print('|                                                          June 2025  |')
+print('|                                                       Pune, IND     |')
+print('|   Dear Self,                                                        |')
+print('|                                                                     |')
+print('|        Build the platform you always dreamed of —                   |')
+print('|        the one you wish existed when you started.                   |')
+print('|        Give more than you take.                                     |')
+print('|        Care > capital.                                              |')
+print('|        Five-second funerals for all the Ls.                         |')
+print('|        And always get back up.                                      |')
+print('|                                                                     |')
+print('|                                                 Komal :))           |')
+print('|                                                                     |')
+print('+---------------------------------------------------------------------+')
