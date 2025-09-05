@@ -87,6 +87,19 @@ if ( side1 + side2 > side3 and side2 + side3 > side1 and side1 + side3 > side2):
   print("The triangle is valid!")
 else : 
   print("The triangle is invalid")
+
+#typeoftriangle
+
+a = int(input())
+b = int(input())
+c = int(input())
+
+if ( a == b == c):
+  print("Equilateral triangle")
+elif ( a == b or b == c or c == a):
+  print("Isosceles triangle")
+else :
+  print( "Scalene triangle")
   
   
   
