@@ -15,6 +15,7 @@ def primen(num):
 num1 = int(input("Enter first number: "))
 num2 = int(input("Enter second number: "))
 print(f"\nPrime numbers between {num1} and {num2} are : ")
+
 if num1>num2:
   for i in range(num2, num1 + 1):
     r = primen(i)
